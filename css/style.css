@@ -10,7 +10,7 @@ h1,h2,h3,h4,p{
 }
 
 .navbar-right .dropdown-menu {
-    right: -20px;
+    right: -16px;
     left: auto;
 }
 
@@ -84,7 +84,7 @@ h1,h2,h3,h4,p{
     z-index: 1000;
     display: none;
     float: left;
-    min-width: 132.5px;
+    min-width: 125.5px;
     padding: 5px 0;
     margin: 2px 0 0;
     font-size: 14px;
